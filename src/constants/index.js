@@ -40,7 +40,7 @@ import {
     zegnaP,
     hojuzat,
     fashion,
-    mediat,
+    // mediat,
     rest
 
 } from "../assets";
@@ -439,25 +439,25 @@ const projects = [{
         image: rest,
         source_code_link: "#",
     },
-    {
-        name: "E-Pharmacy ",
-        description: "This is R&D project based on Magento, i built around 5 projects with different frontend design on several ideas like , Bikes, Toys, Pharmacy and this one is for Fashion I handled Installation, the responsive design and maintenance of the app",
-        tags: [{
-                name: "Magento",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "Javascript",
-                color: "green-text-gradient",
-            },
-            {
-                name: "PHP",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: mediat,
-        source_code_link: "#",
-    },
+    // {
+    //     name: "E-Pharmacy ",
+    //     description: "This is R&D project based on Magento, i built around 5 projects with different frontend design on several ideas like , Bikes, Toys, Pharmacy and this one is for Fashion I handled Installation, the responsive design and maintenance of the app",
+    //     tags: [{
+    //             name: "Magento",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "Javascript",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "PHP",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: mediat,
+    //     source_code_link: "#",
+    // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

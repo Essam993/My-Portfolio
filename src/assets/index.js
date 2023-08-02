@@ -29,25 +29,25 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import etmana from "./company/etmana.svg";
+import etmana from "./company/etmana.png";
 import bevatel from "./company/bevatel.png";
 import ita from "./company/ita.png";
 import almanea from "./company/almanea.webp";
 import magento from "./tech/magento.png";
 import bootstrap from "./tech/bootstrap.jfif";
-import almaneaP from "./projects/almanea.png"
-import babolatP from "./projects/babolatP.png"
-import bevatelP from "./projects/bevatelP.png"
-import dashboard from "./projects/dashboard.png"
-import kufa from "./projects/kufa.png"
-import ocoda from "./projects/ocodaP.png"
-import zegnaP from "./projects/zegnaP.png"
-import sms from "./projects/sms.png"
-import etmanaP from "./projects/etmanaP.png"
-import hojuzat from "./projects/hojuzat.webp"
-import fashion from "./projects/fashion.png"
-import mediat from "./projects/mediat3.png"
-import rest from "./projects/rest.png"
+import almaneaP from "./projects/almanea.png";
+import babolatP from "./projects/babolatP.png";
+import bevatelP from "./projects/bevatelP.png";
+import dashboard from "./projects/dashboard.png";
+import kufa from "./projects/kufa.png";
+import ocoda from "./projects/ocodaP.png";
+import zegnaP from "./projects/zegnaP.png";
+import sms from "./projects/sms.png";
+import etmanaP from "./projects/etmanaP.png";
+import hojuzat from "./projects/hojuzat.webp";
+import fashion from "./projects/fashion.png";
+// import mediat from "./projects/mediat3.png";
+import rest from "./projects/rest.png";
 
 export {
     etmana,
@@ -95,7 +95,7 @@ export {
     etmanaP,
     hojuzat,
     fashion,
-    mediat,
+    // mediat,
     rest
 
 };
